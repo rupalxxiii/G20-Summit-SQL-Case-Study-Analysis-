@@ -1,0 +1,80 @@
+EventID,SummitID,EventName,EventDate,EventLocation
+1,18,"1st Sherpa meeting",2022-12-13,Udaipur
+2,18,"1st Finance & Central Bank Deputies Meeting",2022-12-13,Bengaluru
+3,18,"1st Development Working Group Meeting",2022-12-16,Mumbai
+4,18,"1st Framework Working Group Meeting",2022-12-20,Bengaluru
+5,18,"1st Joint Finance and Health Task Force Meeting",2023-01-09,"Virtual mode"
+6,18,"1st Meeting for the Global Partnership for Financial Inclusion",2023-01-16,Kolkata
+7,18,"1st Infrastructure Working Group Meeting",2023-01-18,Pune
+8,18,"1st Health Working Group Meeting",2023-01-30,Thiruvananthapuram
+9,18,"1st International Financial Architecture Working Group Meeting",2023-02-02,Chandigarh
+10,18,"1st Education Working Group Meeting",2023-01-31,Chennai
+11,18,"1st Employment Working Group Meeting",2023-02-02,Jodhpur
+12,18,"1st Sustainable Finance Working Group Meeting",2023-02-05,Guwahati
+13,18,"1st Energy Transitions Working Group Meeting",2023-02-07,Bengaluru
+14,18,"1st Tourism Working Group Meeting",2023-02-09,"Rann of Kutch"
+15,18,"1st Environment and Climate Working Group Meeting",2023-02-13,Bengaluru
+16,18,"1st Agriculture Working Group Meeting",2023-02-13,Indore
+17,18,"1st DEWG – Seminar on Digital Inclusion & Excursion",2023-02-22,Lucknow
+18,18,"1st FMCBG and 2nd FCBD Meeting",2023-02-23,Bengaluru
+19,18,"1st Culture Working Group Meeting",2023-03-01,Khajuraho
+20,18,"G20 Foreign Ministers Meeting",2023-03-01,Delhi
+21,18,"1st Anti-Corruption Working Group Meeting",2023-03-06,Gurugram
+22,18,"2nd Meeting for the Global Partnership for Financial Inclusion",2023-03-15,Hyderabad
+23,18,"2nd Education Working Group Meeting",2023-03-20,Amritsar
+24,18,"2nd Joint Finance-Health Task Force Meeting",2023-03-21,"Virtual mode"
+25,18,"2nd Sustainable Finance Working Group Meeting",2023-03-24,Udaipur
+26,18,"2nd Framework Working Group Meeting",2023-03-27,Chennai
+27,18,"2nd Environment and Climate Working Group Meeting",2023-03-28,Gandhinagar
+28,18,"1st Trade & Investment Working Group Meeting",2023-03-29,Mumbai
+29,18,"2nd Agriculture Working Group Meeting",2023-03-30,Visakhapatnam
+30,18,"1st Disaster Management Working Group Meeting",2023-03-30,Chandigarh
+31,18,"1st Disaster Management Working Group Meeting",2023-03-30,Gandhinagar
+32,18,"2nd Sherpa Meeting",2023-03-30,Kumarakom
+33,18,"2nd International Financial Architecture Working Group Meeting",2023-04-01,Paris
+34,18,"2nd Tourism Working Group Meeting",2023-04-02,Siliguri/Darjeeling
+35,18,"2nd Energy Working Group Meeting",2023-04-03,Gandhinagar
+36,18,"2nd Employment Working Group Meeting",2023-04-06,Guwahati
+37,18,"2nd Development Working Group Meeting",2023-06-11,"New Delhi"
+38,18,"Development Ministers Meeting",2023-06-12,Varanasi
+39,18,"3rd Digital Economy Working Group Meeting",2023-06-12,Pune
+40,18,"3rd Framework Working Group Meeting",2023-06-15,Kochi
+41,18,"3rd Agriculture Deputies Meeting",2023-06-17,Hyderabad
+42,18,"Agriculture Ministers Meeting",2023-06-19,Hyderabad
+43,18,"4th Tourism Working Group Meeting",2023-06-19,Goa
+44,18,"2nd Trade & Investment Working Group Meeting",2023-06-19,Kevadia
+45,18,"3rd Sustainable Finance Working Group Meeting",2023-06-20,Mahabalipuram
+46,18,"4th Education Working Group Meeting",2023-06-21,Pune
+47,18,"Tourism Ministers Meeting",2023-06-22,Goa
+48,18,"Education Ministers Meeting",2023-06-22,Pune
+49,18,"3rd Meeting for the Global Partnership for Financial Inclusion",2023-06-22,Bali
+50,18,"3rd Joint Health-Finance Task Force Meeting",2023-06-26,Virtual
+51,18,"3rd Infrastructure Working Group Meeting",2023-07-10,Rishikesh
+52,18,"3rd Sherpa Meeting",2023-07-13,Hampi
+53,18,"3rd Trade & Investment Working Group Meeting",2023-07-14,Bengaluru
+54,18,"3rd Finance and Central Bank Deputies Meeting",2023-07-15,Gandhinagar
+55,18,"3rd Culture Working Group Meeting",2023-07-17,Hampi
+56,18,"3rd Finance Ministers and Central Bank Governors Meeting",2023-07-19,Gandhinagar
+57,18,"4th Energy Transitions Working Group Meeting",2023-07-19,Goa
+58,18,"4th Employment Working Group Meeting",2023-07-21,Indore
+59,18,"Labour and Employment Ministers Meeting",2023-07-22,Indore
+60,18,"Energy Ministers Meeting",2023-07-24,Goa
+61,18,"3rd Disaster Risk Reduction Working Group Meeting",2023-07-26,Chennai
+62,18,"4th Environment and Climate Sustainability Working Group Meeting",2023-07-28,Chennai
+63,18,"Environment and Climate Sustainability Ministers Meeting",2023-08-09,Chennai
+64,18,"Anti-Corruption Ministers Meeting",2023-08-09,Kolkata
+65,18,"Ministerial Meeting on Women’s Empowerment",2023-08-10,Gandhinagar
+66,18,"Joint Health-Finance Ministers Meeting",2023-08-16,Gandhinagar
+67,18,"4th Digital Economy Working Group Meeting",2023-08-17,Bengaluru
+68,18,"4th Health Working Group Meeting",2023-08-18,Gandhinagar
+69,18,"Health Working Group Ministers Meeting",2023-08-19,Gandhinagar
+70,18,"Digital Economy Working Group Ministers Meeting",2023-08-21,Bengaluru
+71,18,"4th Trade & Investment Working Group",2023-08-23,Jaipur
+72,18,"Culture Ministers Meeting",2023-08-24,Varanasi
+73,18,"Trade & Investment Ministers Meeting",2023-09-03,Jaipur
+74,18,"4th Sherpa Meeting",2023-09-05,"New Delhi"
+75,18,"4th Finance and Central Bank Deputies Meeting",2023-09-06,"New Delhi"
+76,18,"Joint Sherpas and Finance Deputies Meeting",2023-09-07,"New Delhi"
+77,18,"Joint Finance and Energy Deputies Meeting",2023-09-08,"New Delhi"
+78,18,"Joint Finance and Energy Ministers Meeting",2023-09-09,"New Delhi"
+79,18,"G20 Summit",2023-09-09,"New Delhi"
