@@ -7,6 +7,7 @@ use G20;
 
 
 -- 1. Find the G20 Summit with the longest duration?
+
  SELECT * ,DATEDIFF(EndDate,StartDate) AS Longest_duration
 FROM G20_Summits
 ORDER BY Longest_duration DESC
